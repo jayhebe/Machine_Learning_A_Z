@@ -1,0 +1,52 @@
+Epoch 1/25
+C:\Users\wby00eq\AppData\Local\Temp\1/ipykernel_19056/3146782979.py:1: UserWarning: `Model.fit_generator` is deprecated and will be removed in a future version. Please use `Model.fit`, which supports generators.
+  classifier.fit_generator(
+250/250 [==============================] - 43s 174ms/step - loss: 0.5938 - accuracy: 0.6900 - val_loss: 0.5925 - val_accuracy: 0.7020
+Epoch 2/25
+250/250 [==============================] - 51s 202ms/step - loss: 0.5708 - accuracy: 0.7091 - val_loss: 0.5632 - val_accuracy: 0.7115
+Epoch 3/25
+250/250 [==============================] - 53s 213ms/step - loss: 0.5450 - accuracy: 0.7246 - val_loss: 0.5297 - val_accuracy: 0.7475
+Epoch 4/25
+250/250 [==============================] - 56s 226ms/step - loss: 0.5130 - accuracy: 0.7484 - val_loss: 0.5410 - val_accuracy: 0.7335
+Epoch 5/25
+250/250 [==============================] - 50s 200ms/step - loss: 0.5026 - accuracy: 0.7533 - val_loss: 0.5578 - val_accuracy: 0.7465
+Epoch 6/25
+250/250 [==============================] - 50s 199ms/step - loss: 0.4925 - accuracy: 0.7614 - val_loss: 0.5386 - val_accuracy: 0.7515
+Epoch 7/25
+250/250 [==============================] - 53s 212ms/step - loss: 0.4771 - accuracy: 0.7665 - val_loss: 0.5753 - val_accuracy: 0.7395
+Epoch 8/25
+250/250 [==============================] - 50s 201ms/step - loss: 0.4597 - accuracy: 0.7756 - val_loss: 0.5138 - val_accuracy: 0.7635
+Epoch 9/25
+250/250 [==============================] - 57s 228ms/step - loss: 0.4493 - accuracy: 0.7819 - val_loss: 0.5477 - val_accuracy: 0.7570
+Epoch 10/25
+250/250 [==============================] - 57s 230ms/step - loss: 0.4327 - accuracy: 0.7961 - val_loss: 0.5371 - val_accuracy: 0.7720
+Epoch 11/25
+250/250 [==============================] - 50s 201ms/step - loss: 0.4183 - accuracy: 0.8044 - val_loss: 0.5091 - val_accuracy: 0.7705
+Epoch 12/25
+250/250 [==============================] - 53s 212ms/step - loss: 0.4031 - accuracy: 0.8100 - val_loss: 0.5340 - val_accuracy: 0.7675
+Epoch 13/25
+250/250 [==============================] - 50s 200ms/step - loss: 0.3933 - accuracy: 0.8152 - val_loss: 0.5370 - val_accuracy: 0.7650
+Epoch 14/25
+250/250 [==============================] - 47s 190ms/step - loss: 0.3819 - accuracy: 0.8232 - val_loss: 0.5841 - val_accuracy: 0.7515
+Epoch 15/25
+250/250 [==============================] - 55s 221ms/step - loss: 0.3655 - accuracy: 0.8357 - val_loss: 0.5823 - val_accuracy: 0.7430
+Epoch 16/25
+250/250 [==============================] - 55s 218ms/step - loss: 0.3588 - accuracy: 0.8432 - val_loss: 0.5911 - val_accuracy: 0.7545
+Epoch 17/25
+250/250 [==============================] - 54s 218ms/step - loss: 0.3490 - accuracy: 0.8471 - val_loss: 0.6042 - val_accuracy: 0.7545
+Epoch 18/25
+250/250 [==============================] - 54s 214ms/step - loss: 0.3336 - accuracy: 0.8553 - val_loss: 0.5790 - val_accuracy: 0.7620
+Epoch 19/25
+250/250 [==============================] - 47s 187ms/step - loss: 0.3249 - accuracy: 0.8541 - val_loss: 0.6306 - val_accuracy: 0.7530
+Epoch 20/25
+250/250 [==============================] - 48s 191ms/step - loss: 0.3072 - accuracy: 0.8677 - val_loss: 0.6330 - val_accuracy: 0.7500
+Epoch 21/25
+250/250 [==============================] - 51s 203ms/step - loss: 0.2969 - accuracy: 0.8736 - val_loss: 0.5984 - val_accuracy: 0.7590
+Epoch 22/25
+250/250 [==============================] - 45s 181ms/step - loss: 0.2931 - accuracy: 0.8736 - val_loss: 0.6690 - val_accuracy: 0.7475
+Epoch 23/25
+250/250 [==============================] - 46s 184ms/step - loss: 0.2643 - accuracy: 0.8909 - val_loss: 0.6481 - val_accuracy: 0.7585
+Epoch 24/25
+250/250 [==============================] - 51s 203ms/step - loss: 0.2746 - accuracy: 0.8806 - val_loss: 0.6871 - val_accuracy: 0.7535
+Epoch 25/25
+250/250 [==============================] - 49s 197ms/step - loss: 0.2492 - accuracy: 0.8960 - val_loss: 0.6853 - val_accuracy: 0.7635
